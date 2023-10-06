@@ -1,6 +1,5 @@
-// Imports
+// import for sap cds lib
 const cds = require("@sap/cds");
-
  /**
     * The service implementation with all service handlers
     */
